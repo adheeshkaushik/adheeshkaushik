@@ -277,20 +277,6 @@ https://github.com/adheeshkaushik
 
 ---
 
-<h1 align="center">
-  📈 GitHub Analytics
-</h1>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adheeshkaushik&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=18&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adheeshkaushik&layout=compact&theme=midnight-purple&hide_border=true&border_radius=18"/>
-
-</div>
-
----
-
 <h2 align="center">
 🔥 GitHub Streak
 </h2>
@@ -520,18 +506,6 @@ If you find my projects useful:
 
 
 </div>
-
-
----
-
-# ⚡ Activity Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=adheeshkaushik&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
 
 ---
 
