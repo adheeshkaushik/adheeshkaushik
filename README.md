@@ -1,63 +1,61 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:38BDF8&text=Adheesh%20Kaushik&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Analyst%20%7C%20Excel%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,40:1E3A8A,75:2563EB,100:38BDF8&text=Adheesh%20Kaushik&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Enthusiast&descAlignY=58&descSize=19&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Transforming+Raw+Data+into+Actionable+Insights;Building+Interactive+Business+Dashboards;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Always+Learning+Something+New+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Turning+Raw+Data+Into+Actionable+Business+Insights;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Creating+Interactive+Dashboards+for+Better+Decisions;Always+Learning+%F0%9F%9A%80"/>
 
 <br><br>
 
-![](https://img.shields.io/badge/Open_to_Work-22C55E?style=for-the-badge)
+<img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-![](https://komarev.com/ghpvc/?username=adheeshkaushik&style=for-the-badge&color=0ea5e9)
+<img src="https://komarev.com/ghpvc/?username=adheeshkaushik&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
 
-![](https://img.shields.io/github/followers/adheeshkaushik?style=for-the-badge&color=0ea5e9)
-
-![](https://img.shields.io/github/stars/adheeshkaushik?affiliations=OWNER&style=for-the-badge&color=FACC15)
+<img src="https://img.shields.io/github/followers/adheeshkaushik?style=for-the-badge&color=2563EB&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 👋 Hello, I'm Adheesh Kaushik
 
-Hi, I'm **Adheesh Kaushik**, a passionate **Data Analyst** who enjoys transforming raw data into meaningful insights and interactive dashboards that support better business decisions.
+### 📊 Data Analyst | Business Intelligence Enthusiast
 
-I love working with data, identifying trends, solving business problems, and creating visual reports that make complex information easy to understand.
+I enjoy transforming raw datasets into meaningful insights that help businesses make smarter decisions. My passion lies in data analysis, dashboard development, KPI reporting, and discovering patterns that drive business growth.
 
-Currently, I'm focused on improving my analytical skills by building real-world projects using **Excel, SQL, Power BI, Python, Pandas, and NumPy**.
-
----
-
-## 🚀 Current Focus
-
-- 📊 Building interactive Business Dashboards
-- 📈 Performing KPI & Sales Analysis
-- 🐍 Learning advanced Python for Data Analytics
-- 🗄️ Strengthening SQL for Business Intelligence
-- 💼 Looking for Data Analyst opportunities
+I continuously improve my analytical thinking by building real-world projects using modern data tools and visualization techniques.
 
 ---
 
-# 💡 Quick Overview
+## 🚀 What I Do
 
-```text
-👨‍💻 Role          : Data Analyst
-📍 Location      : India
-📊 Experience    : Data Analytics Projects
-🎯 Interested In : Business Intelligence
-📚 Currently     : Excel • SQL • Power BI • Python
-💼 Open For      : Full-time | Internship | Freelance
-```
+- 📈 Analyze business and sales data
+- 📊 Build interactive dashboards
+- 📉 Track KPIs & business performance
+- 🧹 Clean and organize datasets
+- 📋 Create reports that support decision-making
+- 💡 Transform complex data into simple visual insights
+
+---
+
+# ⚡ Quick Overview
+
+| | |
+|:---|:---|
+| 💼 Role | Data Analyst |
+| 📍 Location | India |
+| 🎯 Interested In | Data Analytics & Business Intelligence |
+| 📚 Currently Learning | Advanced SQL, Power BI & Python |
+| 🤝 Open To | Full-Time • Internship • Freelance |
 
 ---
 
 # 🛠 Tech Stack
 
-## Programming
+### 💻 Programming & Database
 
-<p>
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 
@@ -65,7 +63,7 @@ Currently, I'm focused on improving my analytical skills by building real-world 
 
 ---
 
-## Data Analysis
+### 📊 Data Analysis
 
 <p>
 
@@ -73,72 +71,95 @@ Currently, I'm focused on improving my analytical skills by building real-world 
 
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 </p>
 
 ---
 
-## Business Intelligence
+### 📈 Business Intelligence
 
 <p>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
 
 ---
 
-# 🌟 What I Love Working On
+# 🌟 Core Strengths
 
-✔ Sales Analytics
+```text
+📊 Business Data Analysis
 
-✔ Business KPI Dashboards
+📈 Dashboard Development
 
-✔ Interactive Excel Reports
+📉 KPI Tracking
 
-✔ Data Cleaning
+📋 Data Cleaning
 
-✔ Data Visualization
+📑 Excel Reporting
 
-✔ Business Intelligence
+📊 Interactive Visualizations
 
-✔ Dashboard Automation
+🧠 Analytical Problem Solving
 
-✔ E-commerce Analytics
-
----
-
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
+📌 Business Insights
+```
 
 ---
 
+# 🎯 Current Focus
+
+🟢 Building real-world Business Intelligence projects
+
+🟢 Improving SQL for analytical queries
+
+🟢 Exploring advanced Power BI dashboards
+
+🟢 Strengthening Python for data analysis
+
+🟢 Learning better visualization techniques
+
+---
+
+> ### 💬 "Data becomes valuable when it tells a story that drives better decisions."
+
+---
 # 🚀 Featured Projects
 
+Building practical projects is my favorite way to improve my analytical and problem-solving skills. Each project focuses on solving a real-world business problem using data analysis, visualization, or modern web development.
+
 ---
 
-## 🛍️ E-commerce Sales Dashboard
+# 🛍️ E-Commerce Sales Dashboard
 
-> **Business Sales Analysis Dashboard built using Microsoft Excel**
+### 📊 Overview
 
-This project transforms raw sales data from multiple e-commerce platforms into meaningful business insights. It helps analyze sales performance, compare monthly trends, monitor KPIs, and support data-driven decision-making.
+An interactive business dashboard built using Microsoft Excel to analyze sales performance across multiple e-commerce platforms including **Myntra, Flipkart, Shopify, and Nykaa**.
 
-### ✨ Highlights
+The dashboard helps identify revenue trends, monitor KPIs, compare monthly performance, and support data-driven business decisions.
 
-- 📊 Interactive Excel Dashboard
-- 📈 Monthly Sales Trend Analysis
-- 🛒 Multi-platform Sales Analysis
-- 💰 Revenue & Profit Tracking
+### ✨ Key Features
+
+- 📈 Monthly Sales Analysis
+- 📊 Interactive Dashboard
+- 💰 Revenue Tracking
 - 📦 Category-wise Performance
+- 🛒 Platform-wise Sales Comparison
 - 📉 KPI Monitoring
+- 📅 Business Trend Analysis
 
-### 🛠️ Tech Stack
+### 🛠 Tech Used
 
 <p>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+
 </p>
 
 ### 🔗 Repository
@@ -148,24 +169,29 @@ https://github.com/adheeshkaushik/ECommerceSalesDashboard
 
 ---
 
-## 📈 Business KPI Dashboard
+# 📈 Business KPI Dashboard
 
-> **Business Intelligence Dashboard for KPI Monitoring**
+### 📊 Overview
 
-A dashboard designed to monitor business performance using Key Performance Indicators (KPIs). It provides a single interactive view of important business metrics for faster decision-making.
+A Business Intelligence dashboard developed in Microsoft Excel for monitoring organizational performance using Key Performance Indicators (KPIs).
 
-### ✨ Highlights
+The dashboard combines multiple business metrics into a single view, enabling faster analysis and better decision-making.
 
-- 📊 Executive Dashboard
-- 📈 KPI Tracking
-- 📉 Performance Monitoring
-- 📅 Trend Analysis
-- 📌 Interactive Reports
+### ✨ Key Features
 
-### 🛠️ Tech Stack
+- 📊 Executive KPI Dashboard
+- 📈 Performance Tracking
+- 📉 Trend Analysis
+- 📋 Business Reports
+- 📅 Monthly Monitoring
+- 📌 Interactive Visualizations
+
+### 🛠 Tech Used
 
 <p>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
 </p>
 
 ### 🔗 Repository
@@ -175,25 +201,27 @@ https://github.com/adheeshkaushik/BusinessKPIDashboard
 
 ---
 
-## 🏦 Digital Banking System
+# 🏦 Digital Banking System
 
-> **Responsive Banking Management Website**
+### 💻 Overview
 
-A modern banking website developed to showcase digital banking services with a responsive and user-friendly interface.
+A responsive and modern banking website that demonstrates a clean user interface, responsive layouts, and digital banking functionalities.
 
-### ✨ Features
+The project focuses on creating an engaging banking experience using modern front-end technologies.
 
-- 💳 Digital Banking UI
-- 🔐 Secure Banking Pages
+### ✨ Key Features
+
+- 🏦 Modern Banking Interface
 - 📱 Fully Responsive Design
-- 🎨 Modern User Interface
-- ⚡ Smooth Navigation
+- 🔐 User-friendly Navigation
+- 🎨 Attractive UI Design
+- ⚡ Optimized Performance
 
-### 🛠️ Tech Stack
+### 🛠 Tech Used
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 
 </p>
 
@@ -204,88 +232,115 @@ https://github.com/adheeshkaushik/DigitalBankingSystem
 
 ---
 
-# 📚 Currently Learning
+# 💼 Technical Skills
 
-- 🐍 Advanced Python for Data Analysis
-- 🗄️ SQL for Data Analytics
-- 📊 Power BI Dashboard Development
-- 📈 Business Intelligence Concepts
-- 📉 Data Visualization Best Practices
+### 📊 Data Analytics
+
+- Microsoft Excel
+- Google Sheets
+- Power BI
+- Data Cleaning
+- Data Visualization
+- KPI Reporting
+- Business Analysis
 
 ---
 
-# 💼 Services
+### 💻 Programming
 
-✔ Data Cleaning
+- Python
+- SQL
+- NumPy
+- Pandas
+
+---
+
+
+# 🎯 Professional Interests
+
+✔ Business Intelligence
 
 ✔ Dashboard Development
 
-✔ Excel Automation
-
-✔ KPI Dashboard Creation
-
-✔ Business Data Analysis
+✔ Sales Analytics
 
 ✔ Data Visualization
 
-✔ Sales Analytics
+✔ Business Reporting
 
-✔ Interactive Reports
+✔ KPI Analysis
+
+✔ Problem Solving
+
+✔ Data Storytelling
+
+---
+
+# 📚 Currently Exploring
+
+🚀 Advanced SQL
+
+🚀 Power BI Dashboards
+
+🚀 Python for Data Analytics
+
+🚀 Data Visualization
+
+🚀 Business Intelligence Concepts
 
 ---
 
 # 🎯 Career Objective
 
-I am passionate about analyzing data, solving business problems, and building dashboards that transform raw datasets into actionable insights. My goal is to contribute to data-driven organizations by delivering accurate analysis and impactful visualizations while continuously expanding my skills in Business Intelligence and Analytics.
+I aspire to build a career in Data Analytics where I can transform raw business data into meaningful insights through analysis, visualization, and interactive dashboards. My goal is to continuously improve my technical skills while contributing to data-driven decision-making in a professional environment.
 
 ---
-# 📊 GitHub Activity
+# 📊 GitHub Highlights
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adheeshkaushik&theme=github_dark" width="100%"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adheeshkaushik&theme=github_dark" width="48%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adheeshkaushik&theme=github_dark" width="48%"/>
+| 📂 Projects | 📊 Focus | 🚀 Status |
+|:-----------:|:--------:|:---------:|
+| Data Analytics | Business Intelligence | Open to Work |
 
 </div>
 
 ---
 
-# 🏆 Achievements
+# 🏆 Highlights
 
-🏅 Built multiple Data Analytics projects
+✨ Developed real-world Data Analytics projects
 
-📊 Created Interactive Excel Dashboards
+📊 Built interactive business dashboards
 
-📈 Developed Business KPI Reports
+📈 Performed sales & KPI analysis
 
-🗄️ Strong foundation in SQL & Data Analysis
+🗄️ Worked with SQL and Python for data processing
+
+📋 Created professional reports using Excel
 
 💡 Passionate about solving business problems with data
 
 ---
 
-# 📈 2026 Goals
+# 🎯 2026 Goals
 
-- ✅ Master SQL
-- ✅ Become an Advanced Power BI Developer
-- ✅ Learn Tableau
-- ✅ Build 10+ Real-world Data Analytics Projects
-- ✅ Contribute to Open Source
-- ✅ Secure a Data Analyst Role
+- 📌 Build 10+ Data Analytics Projects
+- 📌 Master Advanced SQL
+- 📌 Master Power BI
+- 📌 Learn Tableau
+- 📌 Improve Python for Analytics
+- 📌 Contribute to Open Source
+- 📌 Secure a Data Analyst Role
 
 ---
 
-# 🤝 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://adheeshkaushik.github.io/AdheeshPortfolio/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/adheesh-kaushik-071003365">
@@ -300,18 +355,22 @@ I am passionate about analyzing data, solving business problems, and building da
 
 ---
 
-# 💬 Quote
+# 💬 Favorite Quote
 
-> **"Data is valuable only when it is transformed into meaningful insights."**
+<div align="center">
+
+### "Data is only powerful when it creates impact."
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thank you for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
+If you found my work interesting, feel free to explore my repositories and connect with me.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,100:0F172A&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38BDF8,50:2563EB,100:0F172A&section=footer"/>
 
 </div>
