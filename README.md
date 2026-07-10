@@ -312,19 +312,6 @@ https://github.com/adheeshkaushik
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adheeshkaushik&theme=react-dark&bg_color=0D1117&hide_border=true&color=A855F7&line=8B5CF6&point=C084FC"/>
 
 </div>
-
----
-
-<h2 align="center">
-🏆 GitHub Trophies
-</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adheeshkaushik&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
-
-</div>
-
 ---
 
 <h2 align="center">
@@ -490,7 +477,6 @@ If you find my projects useful:
 |-------------|---------|
 | GitHub | https://github.com/adheeshkaushik |
 | Portfolio | https://adheeshkaushik.github.io/AdheeshPortfolio/ |
-| Projects | GitHub Repositories |
 
 </div>
 
@@ -613,18 +599,6 @@ If you find my projects useful:
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&color=8B5CF6&width=700&lines=Data+Driven+Development;Creative+Problem+Solving;Building+The+Future+With+Technology"/>
 
 </div>
-
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adheeshkaushik&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
 
 ---
 
