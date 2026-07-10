@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Adheesh Kaushik
 
-### 📊 Data Analyst • 💻 Web Developer • 📈 Power BI Enthusiast
+### 📊 Data Analyst • 📈 Power BI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&color=8B5CF6&lines=Transforming+Data+Into+Insights;Building+Interactive+Dashboards;Developing+Modern+Web+Applications;Power+BI+%7C+SQL+%7C+JavaScript;Always+Learning+Something+New"/>
 
@@ -31,7 +31,6 @@ Name: Adheesh Kaushik
 
 Role:
    Data Analyst
-   Web Developer
 
 Focus:
    Business Intelligence
@@ -39,10 +38,10 @@ Focus:
    Data Visualization
 
 Currently Learning:
-   Advanced Power BI
+   Power BI
    SQL
+   Advanced Excel
    Python
-   Modern JavaScript
 
 Passion:
    Solving real-world business problems using data.
@@ -68,20 +67,6 @@ Goal:
 ✔ Data Visualization
 
 ✔ Business Intelligence
-
----
-
-### 💻 Web Development
-
-✔ Responsive Websites
-
-✔ Modern UI
-
-✔ Bootstrap
-
-✔ JavaScript
-
-✔ PHP & MySQL
 
 ---
 
@@ -117,21 +102,9 @@ Goal:
 
 ---
 
-### 🎨 Frontend Development
+### ⚙ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=html&theme=dark"/>
-<img src="https://skillicons.dev/icons?i=css&theme=dark"/>
-<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark"/>
-<img src="https://skillicons.dev/icons?i=javascript&theme=dark"/>
-</p>
-
----
-
-### ⚙ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=php&theme=dark"/>
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
 </p>
 
@@ -387,10 +360,6 @@ https://github.com/adheeshkaushik
 ⭐ Keep Learning • Keep Building • Keep Growing
 
 </div>
-
----
-
-# <img src="https://img.icons8.com/fluency/48/prize.png" width="30"/> Certifications & Learning
 
 ---
 
