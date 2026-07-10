@@ -93,10 +93,9 @@ Goal:
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-<img src="https://skillicons.dev/icons?i=js&theme=dark" />
-<img src="https://skillicons.dev/icons?i=php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=microsoftexcel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=powerbi&theme=dark" />
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
